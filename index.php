@@ -1,1 +1,1 @@
-<?php include_once("html/stress-words.html"); ?>
+<?php include_once("/html/stress-words.html"); ?>
